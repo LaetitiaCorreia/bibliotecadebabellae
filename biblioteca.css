@@ -1,0 +1,59 @@
+#myPage {
+
+    background-position: right top;
+    z-index: -1;
+    width: right;
+
+}
+.button {
+
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: right;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button {border-radius: 1000%;}
+.button{
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+}
+
+.button:hover {
+    background-color: #555555;
+    color: white;
+}
+
+.botao{
+ color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: right;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+.botao {border-radius: 1000%;}
+.botao{
+        color: white;
+    background-color: black;
+
+   
+}
+
+.botao:hover {
+    background-color: white;
+    color: black;
+       border: 2px solid #555555;
+}
+
+
+
+
+
